@@ -10,11 +10,7 @@ It can assist in constructing clear and concise sentences, ensuring that your me
 </br>
 </br>
 Applications:
-</br>
 - Business Communication
-</br>
 - Client interaction
-</br>
 - Job applications
-</br>
 - Networking
